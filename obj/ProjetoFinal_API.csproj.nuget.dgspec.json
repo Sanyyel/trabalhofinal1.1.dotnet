@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\trabalhofinal1.1.dotnet\\ProjetoFinal_API.csproj": {}
+    "/Users/u21420/trabalhofinal1.1.dotnet/ProjetoFinal_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\trabalhofinal1.1.dotnet\\ProjetoFinal_API.csproj": {
+    "/Users/u21420/trabalhofinal1.1.dotnet/ProjetoFinal_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\trabalhofinal1.1.dotnet\\ProjetoFinal_API.csproj",
+        "projectUniqueName": "/Users/u21420/trabalhofinal1.1.dotnet/ProjetoFinal_API.csproj",
         "projectName": "ProjetoFinal_API",
-        "projectPath": "C:\\Users\\danie\\trabalhofinal1.1.dotnet\\ProjetoFinal_API.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\trabalhofinal1.1.dotnet\\obj\\",
+        "projectPath": "/Users/u21420/trabalhofinal1.1.dotnet/ProjetoFinal_API.csproj",
+        "packagesPath": "/Users/u21420/.nuget/packages/",
+        "outputPath": "/Users/u21420/trabalhofinal1.1.dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/u21420/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,29 +61,10 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -94,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
